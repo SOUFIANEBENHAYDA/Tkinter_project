@@ -1,0 +1,6 @@
+projectKey=projet_Tkinter
+serverUrl=http://localhost:9000
+serverVersion=25.12.0.117093
+dashboardUrl=http://localhost:9000/dashboard?id=projet_Tkinter
+ceTaskId=b155d8bd-cf91-48e1-8543-9de51fba29ad
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b155d8bd-cf91-48e1-8543-9de51fba29ad
